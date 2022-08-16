@@ -16,7 +16,7 @@ Technologies used:
 
 IDE used:
 
-- Visual Studio Cide
+- Visual Studio Code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="15" height="15" />
 
 - Xcode
