@@ -13,14 +13,3 @@ Technologies used:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" height="15" />
 
 ---
-
-IDE used:
-
-- Visual Studio Code
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="15" height="15" />
-
-- Xcode
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="15" height="15" />
-
-- Android Studio
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="15" height="15" />
