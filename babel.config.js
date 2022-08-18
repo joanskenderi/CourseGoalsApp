@@ -4,5 +4,3 @@ module.exports = function(api) {
     presets: ['babel-preset-expo'],
   };
 };
-
-//test
