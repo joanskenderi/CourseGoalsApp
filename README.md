@@ -35,3 +35,5 @@ expo start
 ```
 
 ---
+
+https://user-images.githubusercontent.com/86119045/185438383-e5f8e769-8003-491b-8520-88cf5e5c42e9.mov
