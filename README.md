@@ -28,14 +28,10 @@ Install StatusBar
 expo install expo-status-bar
 ```
 
-Start Expo
+Start Expo and choose your device
 
 ```
 expo start
 ```
-
-Run project on iOS or Android
-
-`test`
 
 ---
