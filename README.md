@@ -28,7 +28,7 @@ Install StatusBar
 expo install expo-status-bar
 ```
 
-Start Expo and Choose Your Device
+Start Expo and choose between iOS, Android or Web
 
 ```
 expo start
