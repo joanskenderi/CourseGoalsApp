@@ -36,4 +36,6 @@ expo start
 
 ---
 
+<p align="center">
 https://user-images.githubusercontent.com/86119045/185438750-f8feb0d6-03d9-44b8-b062-593c31a950ad.mp4
+</p>
