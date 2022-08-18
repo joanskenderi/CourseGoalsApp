@@ -1,6 +1,6 @@
 # Course Goals App
 
-Udemy Course
+Project from “React Native - The Practical Guide” course on Udemy by Maximilian Schwarzmüller.
 
 ---
 
@@ -16,13 +16,13 @@ Technologies used:
 
 ## Setup
 
-Install Node modules
+Install node_modules
 
 ```
 npm install
 ```
 
-Install Expo Status Bar
+Install StatusBar
 
 ```
 expo install expo-status-bar
@@ -39,3 +39,5 @@ Run project on iOS or Android
 ```
 expo start --ios OR expo start --android
 ```
+
+---
