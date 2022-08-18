@@ -34,4 +34,8 @@ Start Expo
 expo start
 ```
 
+Run project on iOS or Android
+
+`test`
+
 ---
