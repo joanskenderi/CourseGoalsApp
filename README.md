@@ -34,10 +34,4 @@ Start Expo
 expo start
 ```
 
-Run project on iOS or Android
-
-```
-expo start --ios OR expo start --android
-```
-
 ---
