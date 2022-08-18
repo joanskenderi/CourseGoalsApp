@@ -1,9 +1,9 @@
 import { useState } from "react";
 import {
+  StyleSheet,
   View,
   TextInput,
   Button,
-  StyleSheet,
   Modal,
   Image,
 } from "react-native";
