@@ -4,7 +4,7 @@ Project from “React Native - The Practical Guide” course on Udemy by Maximil
 
 ---
 
-Technologies used:
+Tech Stack:
 
 - JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15" />
