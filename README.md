@@ -22,12 +22,6 @@ Install node_modules
 npm install
 ```
 
-Install StatusBar
-
-```
-expo install expo-status-bar
-```
-
 Start Expo and choose between iOS, Android or Web
 
 ```
